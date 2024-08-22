@@ -1,0 +1,15 @@
+.footer-container {
+  background-color: #161619;
+  margin-top: 20px;
+  padding: 16px 50px;
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.footer-container > a {
+  cursor: pointer;
+  color: #918e9b;
+  font-size: 25px;
+}

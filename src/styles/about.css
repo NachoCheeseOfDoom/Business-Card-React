@@ -1,0 +1,21 @@
+.about-container {
+  text-align: left;
+  margin: auto;
+  max-width: 85%;
+}
+
+.about-title,
+.about-paragraph {
+  margin: 0;
+}
+
+.about-title {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #f5f5f5;
+}
+
+.about-paragraph {
+  font-size: 10.24px;
+  color: #dcdcdc;
+}
